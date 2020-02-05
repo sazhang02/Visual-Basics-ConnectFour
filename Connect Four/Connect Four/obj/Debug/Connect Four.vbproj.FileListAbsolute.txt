@@ -1,0 +1,12 @@
+K:\VB2\Connect Four\Connect Four\obj\Debug\Connect_Four.Form1.resources
+K:\VB2\Connect Four\Connect Four\obj\Debug\Connect_Four.Resources.resources
+K:\VB2\Connect Four\Connect Four\obj\Debug\Connect Four.vbproj.GenerateResource.Cache
+K:\VB2\Connect Four\Connect Four\bin\Debug\Connect Four.exe.config
+K:\VB2\Connect Four\Connect Four\bin\Debug\Connect Four.exe
+K:\VB2\Connect Four\Connect Four\bin\Debug\Connect Four.pdb
+K:\VB2\Connect Four\Connect Four\bin\Debug\Connect Four.xml
+K:\VB2\Connect Four\Connect Four\obj\Debug\Connect Four.exe
+K:\VB2\Connect Four\Connect Four\obj\Debug\Connect Four.xml
+K:\VB2\Connect Four\Connect Four\obj\Debug\Connect Four.pdb
+K:\VB2\Connect Four\Connect Four\obj\Debug\Connect Four.vbprojAssemblyReference.cache
+K:\VB2\Connect Four\Connect Four\obj\Debug\Connect Four.vbproj.CoreCompileInputs.cache
